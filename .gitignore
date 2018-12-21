@@ -1,0 +1,7 @@
+# Folder
+.vscode
+node_modules
+
+# File
+package-lock.json
+Thumbs.db
