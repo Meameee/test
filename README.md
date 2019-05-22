@@ -1,3 +1,3 @@
-# About Me
+# Demmy's Blog
 
-## Demmy Hafiz Janitra
+## I share what I care.
